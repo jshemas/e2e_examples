@@ -1,0 +1,16 @@
+{
+  "name": "webdriver-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio wdio.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wdio-chromedriver-service": "^0.1.1",
+    "wdio-mocha-framework": "^0.5.11",
+    "webdriverio": "^4.8.0"
+  }
+}

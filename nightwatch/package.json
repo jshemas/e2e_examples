@@ -1,0 +1,16 @@
+{
+  "name": "nightwatch-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^2.33.2",
+    "nightwatch": "^0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nightwatch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
